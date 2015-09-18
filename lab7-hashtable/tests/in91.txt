@@ -1,0 +1,73 @@
+clear
+add mush
+print
+find mush
+find mush
+add raid
+print
+add pact
+print
+find pact
+add yelp
+print
+remove yelp
+print
+add liar
+print
+remove pact
+print
+find raid
+remove liar
+print
+add wary
+print
+remove wary
+print
+find mush
+add lacy
+print
+remove mush
+print
+add wise
+print
+add lite
+print
+add fogy
+print
+add raid
+print
+add sort
+print
+add wisp
+print
+add glee
+print
+add roll
+print
+add baby
+print
+add brim
+print
+add also
+print
+find brim
+find raid
+find brim
+remove lacy
+print
+remove sort
+print
+add trim
+print
+remove fogy
+print
+add tofu
+print
+add hive
+print
+remove baby
+print
+add noun
+print
+add fail
+print

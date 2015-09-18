@@ -1,0 +1,161 @@
+clear
+add avid
+print
+add wrap
+print
+add worm
+print
+add born
+print
+add burn
+print
+add woof
+print
+add wood
+print
+add upon
+print
+add calm
+print
+add tile
+print
+add claw
+print
+add that
+print
+add slow
+print
+add cull
+print
+add deep
+print
+add seek
+print
+add roar
+print
+add rink
+print
+add pack
+print
+add drop
+print
+add edgy
+print
+add nine
+print
+add muss
+print
+add meow
+print
+add fame
+print
+add fled
+print
+add math
+print
+add mane
+print
+add lull
+print
+add fold
+print
+add lent
+print
+add food
+print
+add kite
+print
+add gait
+print
+add gash
+print
+add kind
+print
+add jolt
+print
+add goon
+print
+add gulf
+print
+add gull
+print
+remove avid
+print
+remove born
+print
+remove burn
+print
+remove wrap
+print
+remove calm
+print
+remove worm
+print
+remove woof
+print
+remove wood
+print
+remove claw
+print
+remove cull
+print
+remove deep
+print
+remove upon
+print
+remove tile
+print
+remove that
+print
+remove slow
+print
+remove drop
+print
+remove edgy
+print
+remove seek
+print
+remove roar
+print
+remove fame
+print
+remove rink
+print
+remove fled
+print
+remove fold
+print
+remove pack
+print
+remove food
+print
+remove nine
+print
+remove muss
+print
+remove gait
+print
+remove meow
+print
+remove gash
+print
+remove math
+print
+remove goon
+print
+remove mane
+print
+remove gulf
+print
+remove gull
+print
+remove jolt
+print
+remove kind
+print
+remove kite
+print
+remove lent
+print
+remove lull
+print

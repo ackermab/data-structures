@@ -1,0 +1,81 @@
+clear
+add achy
+print
+add tuna
+print
+add term
+print
+add bill
+print
+add card
+print
+add cost
+print
+add crud
+print
+add fair
+print
+add talk
+print
+add flop
+print
+add jury
+print
+add stir
+print
+add soar
+print
+add rent
+print
+add knee
+print
+add rang
+print
+add push
+print
+add oust
+print
+add mono
+print
+add mask
+print
+remove achy
+print
+remove bill
+print
+remove tuna
+print
+remove term
+print
+remove card
+print
+remove talk
+print
+remove stir
+print
+remove soar
+print
+remove rent
+print
+remove rang
+print
+remove cost
+print
+remove crud
+print
+remove fair
+print
+remove push
+print
+remove flop
+print
+remove jury
+print
+remove knee
+print
+remove oust
+print
+remove mono
+print
+remove mask
+print

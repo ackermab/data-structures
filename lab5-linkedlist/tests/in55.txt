@@ -1,0 +1,81 @@
+clear
+insert 0 ACROSS
+print
+insert 0 propel
+print
+insert 0 CASK
+print
+insert 2 omen
+print
+insert 1 mellow
+print
+insert 2 NOTED
+print
+insert 1 refuel
+print
+insert 3 false
+print
+insert 6 stroke
+print
+insert 8 shinny
+print
+insert 6 OIL
+print
+insert 8 deep
+print
+insert 3 scheme
+print
+insert 9 elegy
+print
+insert 12 propel
+print
+insert 2 wino
+print
+insert 12 TONSIL
+print
+insert 2 beside
+print
+insert 14 wives
+print
+insert 2 MODAL
+print
+remove 19
+print
+remove 2
+print
+remove 2
+print
+remove 1
+print
+remove 2
+print
+remove 14
+print
+remove 4
+print
+remove 2
+print
+remove 4
+print
+remove 8
+print
+remove 1
+print
+remove 2
+print
+remove 2
+print
+remove 3
+print
+remove 3
+print
+remove 4
+print
+remove 0
+print
+remove 2
+print
+remove 0
+print
+remove 0
+print

@@ -1,0 +1,17 @@
+beam: 21
+between: 36
+blest: 37
+brave: 15 24 33 42
+country: 28
+dread: 18
+fight: 10
+gloom: 31
+homes: 36
+power: 38
+proof: 13
+proudly: 9
+ramparts: 11
+stripes: 10
+terror: 31
+when: 35
+wiped: 29

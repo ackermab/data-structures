@@ -1,0 +1,289 @@
+clear
+print
+find lite
+add site
+print
+add twin
+print
+find work
+find twin
+remove twin
+print
+add iron
+print
+remove iron
+print
+add cone
+print
+add dove
+print
+find dove
+add romp
+print
+add colt
+print
+add worm
+print
+add sour
+print
+add musk
+print
+add wild
+print
+remove romp
+print
+find wild
+find sour
+remove cone
+print
+remove site
+print
+add flit
+print
+add blot
+print
+remove musk
+print
+add cute
+print
+add hint
+print
+find blot
+add yard
+print
+add gall
+print
+find wild
+remove cute
+print
+add thus
+print
+remove dove
+print
+add pick
+print
+add coed
+print
+find foam
+find hint
+add east
+print
+add veil
+print
+add ugly
+print
+add sour
+print
+add vice
+print
+add spit
+print
+find thus
+add grad
+print
+add tiny
+print
+add hack
+print
+add byte
+print
+add moth
+print
+remove colt
+print
+add airy
+print
+add idle
+print
+find ugly
+remove east
+print
+find joke
+find grad
+add unit
+print
+add tidy
+print
+find moth
+remove flit
+print
+add pack
+print
+add away
+print
+add mono
+print
+add tube
+print
+add thus
+print
+add plan
+print
+remove tidy
+print
+add pate
+print
+add each
+print
+add turf
+print
+add hood
+print
+add coed
+print
+remove grad
+print
+find tiny
+add jamb
+print
+find veil
+add bird
+print
+add quad
+print
+add boar
+print
+remove cord
+print
+add news
+print
+add news
+print
+add redo
+print
+find sour
+remove pick
+print
+remove worm
+print
+find tiny
+add park
+print
+find tube
+add czar
+print
+add lone
+print
+find wild
+remove thus
+print
+add odor
+print
+remove unit
+print
+add able
+print
+add kick
+print
+add grid
+print
+add ugly
+print
+find easy
+add fake
+print
+add mild
+print
+remove veil
+print
+find plan
+find news
+remove pate
+print
+add evil
+print
+add jive
+print
+add lace
+print
+find yard
+add keel
+print
+add waxy
+print
+add poet
+print
+add peep
+print
+find ugly
+add tuna
+print
+remove blot
+print
+add pick
+print
+add grin
+print
+add hark
+print
+add gall
+print
+add grow
+print
+remove grow
+print
+add know
+print
+remove idle
+print
+remove mild
+print
+add deft
+print
+find tuna
+add pail
+print
+add perm
+print
+add reek
+print
+add lame
+print
+add lazy
+print
+add vial
+print
+add dime
+print
+add nick
+print
+find keel
+add whew
+print
+add flex
+print
+add want
+print
+remove plan
+print
+remove pack
+print
+add came
+print
+add oats
+print
+add lace
+print
+remove evil
+print
+remove park
+print
+add waxy
+print
+find flex
+add slit
+print
+add must
+print
+add mart
+print
+remove oats
+print
+find whew
+find boar
+add muff
+print
+find lame
+add gait
+print
+find sour

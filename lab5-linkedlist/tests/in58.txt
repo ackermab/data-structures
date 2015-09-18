@@ -1,0 +1,136 @@
+clear
+print
+insert 0 chaste
+print
+remove 0
+print
+insert 0 rant
+print
+find rant
+find rant
+remove 0
+print
+insert 0 beacon
+print
+insert 0 cowboy
+print
+insert 1 tyrant
+print
+remove 1
+print
+find beacon
+find cowboy
+insert 0 cowboy
+print
+find TELLER
+insert 1 skirt
+print
+insert 0 RAVEN
+print
+insert 3 cowboy
+print
+insert 2 wonder
+print
+insert 5 mister
+print
+find skirt
+insert 1 wobbly
+print
+insert 7 coop
+print
+insert 5 blue
+print
+remove 0
+print
+find coop
+insert 6 refuge
+print
+find wonder
+remove 3
+print
+insert 3 diary
+print
+remove 6
+print
+remove 0
+print
+find wonder
+remove 7
+print
+find yearn
+find beacon
+find mister
+insert 2 forum
+print
+remove 5
+print
+insert 0 fan
+print
+remove 5
+print
+insert 7 envy
+print
+remove 0
+print
+find coop
+insert 4 mainly
+print
+find mister
+insert 0 doodle
+print
+find mister
+insert 4 shed
+print
+remove 10
+print
+find among
+find shed
+find coop
+insert 6 revise
+print
+insert 10 diary
+print
+remove 5
+print
+find diary
+find mister
+insert 7 cavern
+print
+insert 9 trout
+print
+insert 7 shelve
+print
+find cavern
+insert 4 blond
+print
+insert 14 suite
+print
+find coop
+insert 4 delay
+print
+insert 16 viola
+print
+find trout
+insert 4 WONT
+print
+remove 2
+print
+insert 3 ABOUT
+print
+remove 7
+print
+find cavern
+insert 9 dyke
+print
+find mister
+insert 13 shoddy
+print
+find revise
+insert 20 WONT
+print
+remove 2
+print
+insert 19 grouse
+print
+insert 19 ingest
+print

@@ -1,0 +1,283 @@
+clear
+print
+insert 0 salami
+print
+remove 0
+print
+insert 0 MODULE
+print
+insert 0 pylon
+print
+insert 2 VAIN
+print
+insert 3 pass
+print
+insert 2 malign
+print
+insert 2 RETAIN
+print
+insert 2 PICK
+print
+find PICK
+remove 0
+print
+find PICK
+remove 5
+print
+find MODULE
+insert 4 malign
+print
+find malign
+insert 2 hear
+print
+insert 0 HECK
+print
+insert 5 cane
+print
+find malign
+remove 4
+print
+insert 5 blend
+print
+insert 9 HECK
+print
+remove 0
+print
+find MODULE
+find malign
+remove 4
+print
+remove 1
+print
+remove 4
+print
+insert 2 PREWAR
+print
+insert 0 dung
+print
+insert 3 norm
+print
+remove 8
+print
+remove 2
+print
+remove 4
+print
+insert 4 comet
+print
+insert 7 cubic
+print
+insert 7 costly
+print
+find comet
+insert 6 EDGY
+print
+find EDGY
+insert 4 sprung
+print
+remove 7
+print
+find comet
+find costly
+remove 5
+print
+find costly
+remove 4
+print
+remove 4
+print
+remove 2
+print
+remove 1
+print
+insert 4 PREWAR
+print
+insert 5 drivel
+print
+find dung
+insert 0 teapot
+print
+insert 6 buffer
+print
+find buffer
+remove 5
+print
+insert 0 tailor
+print
+insert 8 CONE
+print
+remove 5
+print
+find CONE
+insert 0 goofy
+print
+remove 3
+print
+insert 3 upset
+print
+insert 2 slash
+print
+remove 10
+print
+remove 8
+print
+insert 4 phrase
+print
+find goofy
+insert 0 derby
+print
+insert 10 sullen
+print
+remove 6
+print
+insert 3 divert
+print
+insert 8 north
+print
+remove 9
+print
+insert 1 CONE
+print
+insert 10 click
+print
+insert 7 immune
+print
+insert 8 scowl
+print
+find goofy
+insert 3 design
+print
+find divert
+insert 1 keeper
+print
+insert 11 flute
+print
+insert 0 SHAFT
+print
+remove 5
+print
+insert 5 foster
+print
+find keeper
+insert 12 impact
+print
+insert 21 impart
+print
+remove 19
+print
+remove 19
+print
+remove 3
+print
+remove 1
+print
+insert 16 invade
+print
+insert 0 JAM
+print
+remove 14
+print
+insert 7 some
+print
+insert 1 passe
+print
+insert 4 FANNY
+print
+find keeper
+insert 8 larynx
+print
+remove 21
+print
+insert 5 perch
+print
+insert 0 SEAR
+print
+find tailor
+find opt
+find impart
+insert 6 forget
+print
+insert 6 GOON
+print
+find divert
+remove 15
+print
+insert 23 FRIED
+print
+insert 22 scowl
+print
+insert 2 impact
+print
+insert 6 suit
+print
+insert 25 toy
+print
+remove 2
+print
+find foster
+remove 21
+print
+insert 24 van
+print
+insert 17 fetish
+print
+insert 15 gunk
+print
+insert 14 crypt
+print
+remove 27
+print
+remove 24
+print
+insert 11 toy
+print
+find flute
+remove 18
+print
+find toy
+remove 23
+print
+insert 26 BREAK
+print
+insert 8 curd
+print
+find FRIED
+find keeper
+remove 13
+print
+find divert
+insert 12 berry
+print
+insert 22 gusher
+print
+insert 2 been
+print
+insert 33 demo
+print
+find tailor
+find SEAR
+remove 2
+print
+find passe
+insert 7 stow
+print
+insert 24 CREST
+print
+insert 28 refuse
+print
+find curd
+find SHAFT
+insert 2 OFF
+print
+insert 31 haste
+print
+insert 11 BORDER
+print
+find scowl
+insert 12 flea
+print
+remove 18
+print
+find scowl
+find gusher
+find scowl

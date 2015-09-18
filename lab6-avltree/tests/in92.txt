@@ -1,0 +1,146 @@
+clear
+print
+add edge
+print
+remove edge
+print
+add sham
+print
+remove sham
+print
+add stew
+print
+find stew
+find stew
+find stew
+find stew
+add bird
+print
+add note
+print
+find bird
+add raze
+print
+add fret
+print
+add iron
+print
+add pile
+print
+remove iron
+print
+add stew
+print
+add abet
+print
+remove bird
+print
+find abet
+remove raze
+print
+add vial
+print
+find vial
+add aide
+print
+add hiss
+print
+add deep
+print
+add pall
+print
+add tend
+print
+add funk
+print
+add duty
+print
+add jerk
+print
+remove fret
+print
+add till
+print
+remove stew
+print
+add meow
+print
+find vial
+add chef
+print
+add numb
+print
+add back
+print
+add till
+print
+find hiss
+add mull
+print
+add herd
+print
+remove jerk
+print
+add ford
+print
+add rest
+print
+find rest
+add role
+print
+add sale
+print
+add past
+print
+add hole
+print
+find abet
+add aria
+print
+find hiss
+remove deep
+print
+remove till
+print
+add clot
+print
+find rest
+add ford
+print
+add anew
+print
+remove puny
+print
+add fill
+print
+find numb
+add quip
+print
+add hiss
+print
+remove fill
+print
+add arms
+print
+remove clot
+print
+add ford
+print
+remove aria
+print
+find hole
+find melt
+remove rind
+print
+add silk
+print
+remove arms
+print
+add prom
+print
+remove ford
+print
+add this
+print
+add bump
+print

@@ -1,0 +1,76 @@
+clear
+print
+insert 0 scorn
+print
+insert 0 hope
+print
+remove 0
+print
+insert 0 liter
+print
+insert 0 goat
+print
+insert 1 NOD
+print
+insert 0 pony
+print
+remove 2
+print
+remove 3
+print
+insert 0 pundit
+print
+insert 1 beetle
+print
+insert 4 beetle
+print
+find slab
+insert 3 came
+print
+insert 0 SOUR
+print
+remove 0
+print
+remove 1
+print
+insert 6 goat
+print
+remove 6
+print
+insert 6 mince
+print
+insert 7 spinal
+print
+insert 0 spinal
+print
+find pony
+insert 7 grill
+print
+insert 4 wooden
+print
+insert 4 papal
+print
+insert 10 lining
+print
+insert 4 NOPE
+print
+remove 11
+print
+insert 4 digest
+print
+find NOPE
+insert 6 double
+print
+remove 3
+print
+insert 2 refuse
+print
+insert 1 wooden
+print
+find NOPE
+find pundit
+insert 3 fillet
+print
+find pundit
+insert 3 orange
+print

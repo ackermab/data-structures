@@ -1,0 +1,54 @@
+abraham: 237
+accustomed: 32
+an: 40 89 90 111 121
+armed: 81
+attempts: 120
+benjamin: 193 203 204
+beyond: 87
+certain: 20
+character: 116
+circumstances: 103 122
+conjured: 123
+convulsions: 63
+declare: 16 134
+dissolutions: 59
+each: 143
+effect: 27
+elected: 60
+events: 12
+executioners: 107
+francis: 195 226 235
+frontiers: 110
+general: 132
+government: 24 25 35 38 89 97
+his: 43 45 46 56 58 68 70 79 97
+impel: 17
+independence: 4
+indian: 111
+intentions: 133
+likely: 27
+multitude: 72
+nature: 15 15
+necessity: 37 127
+oliver: 269
+or: 25 108
+other: 49 140 143
+patient: 36
+petitions: 115
+political: 13 137
+render: 76 90
+right: 24 31 34 50 51 135 141
+samuel: 181 250 267
+self: 19
+sent: 72
+shown: 30
+standing: 74
+stephen: 259
+subject: 78
+submitted: 41
+sufferance: 36
+these: 19 21 22 24 36 40 64 83 91 114 124 134 135
+thus: 116
+till: 46
+tyrant: 117
+williams: 268

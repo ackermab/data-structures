@@ -1,0 +1,11 @@
+clear
+add bob
+add joe
+add jim
+print
+ bob(1) joe(1) jim(1)find joe true
+remove bob
+remove joe
+remove jim
+print
+find joe false

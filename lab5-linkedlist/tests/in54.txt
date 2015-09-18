@@ -1,0 +1,41 @@
+clear
+insert 0 albeit
+print
+insert 0 hew
+print
+insert 1 snap
+print
+insert 2 quaver
+print
+insert 1 busing
+print
+insert 4 RAMBLE
+print
+insert 3 BOLD
+print
+insert 6 reveal
+print
+insert 4 fabric
+print
+insert 5 mirage
+print
+remove 2
+print
+remove 1
+print
+remove 6
+print
+remove 2
+print
+remove 4
+print
+remove 1
+print
+remove 1
+print
+remove 2
+print
+remove 0
+print
+remove 0
+print

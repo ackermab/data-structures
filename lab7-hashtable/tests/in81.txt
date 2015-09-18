@@ -1,0 +1,41 @@
+clear
+add bale
+print
+add tuft
+print
+add done
+print
+add toga
+print
+add toad
+print
+add slot
+print
+add road
+print
+add lush
+print
+add gate
+print
+add feud
+print
+remove tuft
+print
+remove bale
+print
+remove toga
+print
+remove toad
+print
+remove done
+print
+remove feud
+print
+remove gate
+print
+remove slot
+print
+remove lush
+print
+remove road
+print

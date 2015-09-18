@@ -1,0 +1,162 @@
+clear
+insert 0 anyone
+print
+insert 0 DEFY
+print
+insert 1 skimp
+print
+insert 1 burger
+print
+insert 0 WOODED
+print
+insert 3 EVEN
+print
+insert 2 lurk
+print
+insert 4 anyone
+print
+insert 4 morale
+print
+insert 5 tread
+print
+insert 7 enigma
+print
+insert 1 ORDAIN
+print
+insert 3 eat
+print
+insert 12 tread
+print
+insert 4 risque
+print
+insert 4 REMOVE
+print
+insert 15 depth
+print
+insert 2 sense
+print
+insert 17 depth
+print
+insert 2 wry
+print
+insert 18 disuse
+print
+insert 18 ORDAIN
+print
+insert 18 UGH
+print
+insert 19 spy
+print
+insert 1 GASSY
+print
+insert 4 outdid
+print
+insert 22 wiry
+print
+insert 25 WAY
+print
+insert 24 hymnal
+print
+insert 3 DEBIT
+print
+insert 4 suck
+print
+insert 3 tramp
+print
+insert 31 plank
+print
+insert 2 OFF
+print
+insert 31 burger
+print
+insert 1 onto
+print
+insert 1 EXCUSE
+print
+insert 33 WAY
+print
+insert 3 bore
+print
+insert 36 twine
+print
+remove 36
+print
+remove 2
+print
+remove 3
+print
+remove 33
+print
+remove 34
+print
+remove 2
+print
+remove 2
+print
+remove 30
+print
+remove 31
+print
+remove 27
+print
+remove 3
+print
+remove 27
+print
+remove 27
+print
+remove 23
+print
+remove 24
+print
+remove 24
+print
+remove 2
+print
+remove 20
+print
+remove 21
+print
+remove 19
+print
+remove 17
+print
+remove 2
+print
+remove 2
+print
+remove 4
+print
+remove 15
+print
+remove 3
+print
+remove 12
+print
+remove 2
+print
+remove 9
+print
+remove 1
+print
+remove 4
+print
+remove 2
+print
+remove 6
+print
+remove 3
+print
+remove 3
+print
+remove 4
+print
+remove 1
+print
+remove 2
+print
+remove 0
+print
+remove 0
+print
+

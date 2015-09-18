@@ -1,0 +1,48 @@
+clear
+add 000
+add 010
+add 020
+add 030
+add 040
+add 050
+add 060
+add 070
+add 080
+add 090
+add 100
+add 110
+add 120
+add 130
+add 140
+add 150
+add 160
+add 170
+print
+clear
+clear
+clear
+print
+add 180
+add 190
+add 200
+add 210
+add 220
+add 230
+add 240
+add 250
+add 260
+add 270
+add 280
+add 290
+add bob
+add joe
+add jim
+print
+find joe
+remove bob
+remove joe
+remove jim
+print
+find joe
+clear
+print
